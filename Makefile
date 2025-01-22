@@ -1,2 +1,2 @@
 makefile:
-	gcc main.c -o server
+	gcc main.c -o server -lWs2_32

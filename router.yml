@@ -1,0 +1,10 @@
+routes:
+  '/':
+    file: index.html
+  '/home':
+    file: home.html
+    '/my-page':
+      file: my-page.html
+      '/other-page':
+        file: other-page.html
+  '/root'
